@@ -1,2 +1,2 @@
 # C
-Here are my C programming codes, divided into three folders. One is dedicated to simpler codes, another for intermediate-level codes, and the last one for codes of higher complexity.
+Here are my C programming codes, neatly organized into three separate folders for your convenience. In the first folder, you'll find the simplest codes, perfect for quick reference and basic tasks. The second folder contains codes of intermediate complexity, suitable for tackling more involved programming challenges. Lastly, the third folder is home to codes with a higher level of complexity, designed for advanced projects and applications. This structured approach makes it easy to locate and work with the specific code you need for your programming endeavors.
